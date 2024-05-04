@@ -1,0 +1,20 @@
+
+.eachListItem {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  
+}
+
+.eachListItem h1 {
+  margin-bottom: 5px;
+  color: #333;
+  font-size: 18px;
+}
+
+.eachListItem h1:last-child {
+  color: #666;
+  font-size: 14px;
+}

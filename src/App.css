@@ -1,0 +1,15 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  background-image: url('https://st2.depositphotos.com/48430940/46143/i/450/depositphotos_461431906-stock-photo-copy-space-magnifying-glass-isolate.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
